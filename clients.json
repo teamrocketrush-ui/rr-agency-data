@@ -8,7 +8,10 @@
       "name": "Nikhil Mishra",
       "repo": "nikhil-mishra-report",
       "live_url": "https://teamrocketrush-ui.github.io/nikhil-mishra-report/",
-      "months": ["April 2026", "May 2026"],
+      "months": [
+        "April 2026",
+        "May 2026"
+      ],
       "added": "2026-06-25",
       "status": "active"
     },
@@ -17,7 +20,20 @@
       "name": "Anmol Sharma",
       "repo": "Anmol-Report",
       "live_url": "https://teamrocketrush-ui.github.io/Anmol-Report/",
-      "months": ["May 2026"],
+      "months": [
+        "May 2026"
+      ],
+      "added": "2026-06-25",
+      "status": "active"
+    },
+    {
+      "id": "prasoon-gupta",
+      "name": "Prasoon Gupta",
+      "repo": "prasoon-gupta-report",
+      "live_url": "https://teamrocketrush-ui.github.io/prasoon-gupta-report/",
+      "months": [
+        "May 2026"
+      ],
       "added": "2026-06-25",
       "status": "active"
     }
