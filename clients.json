@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-29",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -35,6 +35,17 @@
         "May 2026"
       ],
       "added": "2026-06-25",
+      "status": "active"
+    },
+    {
+      "id": "arun-maira",
+      "name": "Arun Maira",
+      "repo": "arun-maira-report",
+      "live_url": "https://teamrocketrush-ui.github.io/arun-maira-report/",
+      "months": [
+        "June 2026"
+      ],
+      "added": "2026-06-29",
       "status": "active"
     }
   ]
