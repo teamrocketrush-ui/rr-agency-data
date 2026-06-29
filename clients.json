@@ -47,6 +47,22 @@
       ],
       "added": "2026-06-29",
       "status": "active"
+    },
+    {
+      "id": "shruti-agrawal",
+      "name": "Shruti Agrawal",
+      "repo": "shruti-agrawal-report",
+      "live_url": "https://teamrocketrush-ui.github.io/shruti-agrawal-report/",
+      "months": [
+        "January 2026",
+        "February 2026",
+        "March 2026",
+        "April 2026",
+        "May 2026",
+        "June 2026"
+      ],
+      "added": "2026-06-29",
+      "status": "active"
     }
   ]
 }
