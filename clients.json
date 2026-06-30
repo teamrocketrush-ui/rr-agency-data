@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -62,6 +62,22 @@
         "June 2026"
       ],
       "added": "2026-06-29",
+      "status": "active"
+    },
+    {
+      "id": "yashpal-singh-parmar",
+      "name": "Yashpal Singh Parmar",
+      "repo": "yashpal-singh-parmar-report",
+      "live_url": "https://teamrocketrush-ui.github.io/yashpal-singh-parmar-report/",
+      "months": [
+        "January 2026",
+        "February 2026",
+        "March 2026",
+        "April 2026",
+        "May 2026",
+        "June 2026"
+      ],
+      "added": "2026-06-30",
       "status": "active"
     }
   ]
