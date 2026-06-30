@@ -111,6 +111,17 @@
       ],
       "added": "2026-06-30",
       "status": "active"
+    },
+    {
+      "id": "abhishek-talwar",
+      "name": "Abhishek Talwar",
+      "repo": "abhishek-talwar-report",
+      "live_url": "https://teamrocketrush-ui.github.io/abhishek-talwar-report/",
+      "months": [
+        "June 2026"
+      ],
+      "added": "2026-06-30",
+      "status": "active"
     }
   ]
 }
