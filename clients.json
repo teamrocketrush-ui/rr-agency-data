@@ -133,6 +133,17 @@
       ],
       "added": "2026-06-30",
       "status": "active"
+    },
+    {
+      "id": "harish-menon",
+      "name": "Harish Menon",
+      "repo": "harish-menon-report",
+      "live_url": "https://teamrocketrush-ui.github.io/harish-menon-report/",
+      "months": [
+        "May 14 \u2013 Jun 14, 2026"
+      ],
+      "added": "2026-06-30",
+      "status": "active"
     }
   ]
 }
