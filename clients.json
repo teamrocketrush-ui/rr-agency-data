@@ -122,6 +122,17 @@
       ],
       "added": "2026-06-30",
       "status": "active"
+    },
+    {
+      "id": "praveen-kumar-dk",
+      "name": "Praveen Kumar D K",
+      "repo": "praveen-kumar-dk-report",
+      "live_url": "https://teamrocketrush-ui.github.io/praveen-kumar-dk-report/",
+      "months": [
+        "June 2026"
+      ],
+      "added": "2026-06-30",
+      "status": "active"
     }
   ]
 }
