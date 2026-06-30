@@ -95,6 +95,21 @@
       ],
       "added": "2026-06-30",
       "status": "active"
+    },
+    {
+      "id": "rajiv-mehta",
+      "name": "Rajiv Mehta",
+      "repo": "rajiv-mehta-report",
+      "live_url": "https://teamrocketrush-ui.github.io/rajiv-mehta-report/",
+      "months": [
+        "February 2026",
+        "March 2026",
+        "April 2026",
+        "May 2026",
+        "June 2026"
+      ],
+      "added": "2026-06-30",
+      "status": "active"
     }
   ]
 }
