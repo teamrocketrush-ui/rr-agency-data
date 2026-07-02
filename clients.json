@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-06-30",
+  "last_updated": "2026-07-02",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -155,6 +155,22 @@
         "May 14 \u2013 Jun 14, 2026"
       ],
       "added": "2026-06-30",
+      "status": "active"
+    },
+    {
+      "id": "piyush-dokania",
+      "name": "Piyush Dokania",
+      "repo": "piyush-dokania-report",
+      "live_url": "https://teamrocketrush-ui.github.io/piyush-dokania-report/",
+      "months": [
+        "January 2026",
+        "February 2026",
+        "March 2026",
+        "April 2026",
+        "May 2026",
+        "June 2026"
+      ],
+      "added": "2026-07-02",
       "status": "active"
     }
   ]
