@@ -184,6 +184,18 @@
       ],
       "added": "2026-07-25",
       "status": "active"
+    },
+    {
+      "id": "snehal-bandekar",
+      "name": "Snehal Bandekar",
+      "repo": "snehal-bandekar-report",
+      "live_url": "https://teamrocketrush-ui.github.io/snehal-bandekar-report/",
+      "months": [
+        "June 2026",
+        "July 2026"
+      ],
+      "added": "2026-07-25",
+      "status": "active"
     }
   ]
 }
