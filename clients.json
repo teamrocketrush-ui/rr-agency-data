@@ -196,6 +196,18 @@
       ],
       "added": "2026-07-25",
       "status": "active"
+    },
+    {
+      "id": "bharat-rungta",
+      "name": "Bharat Rungta",
+      "repo": "bharat-rungta-report",
+      "live_url": "https://teamrocketrush-ui.github.io/bharat-rungta-report/",
+      "months": [
+        "June 2026",
+        "July 2026"
+      ],
+      "added": "2026-07-25",
+      "status": "active"
     }
   ]
 }
