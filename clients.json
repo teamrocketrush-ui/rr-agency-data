@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-07-02",
+  "last_updated": "2026-07-25",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -171,6 +171,18 @@
         "June 2026"
       ],
       "added": "2026-07-02",
+      "status": "active"
+    },
+    {
+      "id": "manvi-bansal",
+      "name": "Manvi Bansal",
+      "repo": "manvi-bansal-report",
+      "live_url": "https://teamrocketrush-ui.github.io/manvi-bansal-report/",
+      "months": [
+        "June 2026",
+        "July 2026"
+      ],
+      "added": "2026-07-25",
       "status": "active"
     }
   ]
