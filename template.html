@@ -262,7 +262,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background:
         <div class="hb-left">
           <div class="hb-eyebrow">Total Followers</div>
           <div class="hb-number">{{TOTAL_FOLLOWERS}}</div>
-          <div class="hb-sub">As of {{FOLLOWERS_DATE}}</div>
+          <div class="hb-sub">As of <span id="followersAsOf">{{FOLLOWERS_DATE}}</span></div>
         </div>
         <div class="hb-stats">
           <div class="hb-stat"><div class="hb-stat-label">Impressions</div><div class="hb-stat-val" id="bImp">—</div><div class="hb-stat-sub" id="bImpS">—</div></div>
@@ -394,6 +394,8 @@ function switchMonth(val){
     set('mbPeak','—');set('mbPeakS','See monthly');
     set('impSub','All months combined — daily impressions');
     set('folSub','All months combined — follower growth');
+  const asOfAll=document.getElementById('followersAsOf');
+  if(asOfAll){const keys=Object.keys(MONTHS);const lastRange=MONTHS[keys[keys.length-1]].range;const parts=lastRange.split('–');asOfAll.textContent=parts.length>1?parts[1].trim():lastRange;}
     IC.data.labels=combLabels;IC.data.datasets[0].data=combImp;IC.update();
     FC.data.labels=combLabels;FC.data.datasets[0].data=combFol;FC.update();
     drawSparkline('spark1',combImp,'#6366F1','rgba(99,102,241,0.12)');
@@ -423,6 +425,8 @@ function switchMonth(val){
     set('mbPeak',d.peakDay);set('mbPeakS',`${d.peakVal} impressions`);
     set('impSub',`Post views — ${d.range}`);
     set('folSub',`New followers per day — ${d.label}`);
+  const asOf=document.getElementById('followersAsOf');
+  if(asOf){const parts=d.range.split('–');asOf.textContent=parts.length>1?parts[1].trim():d.range;}
     IC.data.labels=d.labels;IC.data.datasets[0].data=d.impressions;IC.update();
     FC.data.labels=d.labels;FC.data.datasets[0].data=d.followers;FC.update();
     drawSparkline('spark1',d.impressions,'#6366F1','rgba(99,102,241,0.12)');
