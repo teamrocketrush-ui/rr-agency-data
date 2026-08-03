@@ -219,6 +219,17 @@
       ],
       "added": "2026-07-25",
       "status": "active"
+    },
+    {
+      "id": "ashok-devanampriya",
+      "name": "Ashok Devanampriya",
+      "repo": "ashok-devanampriya-report",
+      "live_url": "https://teamrocketrush-ui.github.io/ashok-devanampriya-report/",
+      "months": [
+        "July 2026"
+      ],
+      "added": "2026-08-03",
+      "status": "active"
     }
   ]
 }
