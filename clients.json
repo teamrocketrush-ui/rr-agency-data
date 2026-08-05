@@ -230,6 +230,17 @@
       ],
       "added": "2026-08-03",
       "status": "active"
+    },
+    {
+      "id": "dhawal-phadke",
+      "name": "Dhawal Phadke",
+      "repo": "dhawal-phadke-report",
+      "live_url": "https://teamrocketrush-ui.github.io/dhawal-phadke-report/",
+      "months": [
+        "July 2026"
+      ],
+      "added": "2026-08-03",
+      "status": "active"
     }
   ]
 }
