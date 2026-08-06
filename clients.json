@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-06",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -240,6 +240,17 @@
         "July 2026"
       ],
       "added": "2026-08-03",
+      "status": "active"
+    },
+    {
+      "id": "ibec",
+      "name": "IBEC",
+      "repo": "ibec-report",
+      "live_url": "https://teamrocketrush-ui.github.io/ibec-report/",
+      "months": [
+        "July 2026"
+      ],
+      "added": "2026-08-06",
       "status": "active"
     }
   ]
