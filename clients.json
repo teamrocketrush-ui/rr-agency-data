@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-22",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -149,7 +149,8 @@
       "live_url": "https://teamrocketrush-ui.github.io/harish-menon-report/",
       "months": [
         "May 14 \u2013 Jun 14, 2026",
-        "July 2026"
+        "July 2026",
+        "August 2026"
       ],
       "added": "2026-06-30",
       "status": "active"
