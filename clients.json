@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-08-31",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -228,7 +228,8 @@
       "repo": "ashok-devanampriya-report",
       "live_url": "https://teamrocketrush-ui.github.io/ashok-devanampriya-report/",
       "months": [
-        "July 2026"
+        "July 2026",
+        "August 2026"
       ],
       "added": "2026-08-03",
       "status": "active"
