@@ -267,6 +267,17 @@
       ],
       "added": "2026-09-01",
       "status": "active"
+    },
+    {
+      "id": "ujwal-kalra",
+      "name": "Ujwal Kalra",
+      "repo": "ujwal-kalra-report",
+      "live_url": "https://teamrocketrush-ui.github.io/ujwal-kalra-report/",
+      "months": [
+        "July 2026"
+      ],
+      "added": "2026-09-01",
+      "status": "active"
     }
   ]
 }
