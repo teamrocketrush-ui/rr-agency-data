@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -217,7 +217,8 @@
       "live_url": "https://teamrocketrush-ui.github.io/bharat-rungta-report/",
       "months": [
         "June 2026",
-        "July 2026"
+        "July 2026",
+        "August 2026"
       ],
       "added": "2026-07-25",
       "status": "active"
