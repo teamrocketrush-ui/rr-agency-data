@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -126,7 +126,8 @@
       "live_url": "https://teamrocketrush-ui.github.io/abhishek-talwar-report/",
       "months": [
         "June 2026",
-        "July 2026"
+        "July 2026",
+        "August 2026"
       ],
       "added": "2026-06-30",
       "status": "active"
