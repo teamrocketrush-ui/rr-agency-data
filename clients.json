@@ -285,6 +285,17 @@
       ],
       "added": "2026-09-01",
       "status": "active"
+    },
+    {
+      "id": "rajiv-goyal",
+      "name": "Rajiv Goyal",
+      "repo": "rajiv-goyal-report",
+      "live_url": "https://teamrocketrush-ui.github.io/rajiv-goyal-report/",
+      "months": [
+        "August 2026"
+      ],
+      "added": "2026-09-03",
+      "status": "active"
     }
   ]
 }
