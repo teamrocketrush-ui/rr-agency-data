@@ -296,6 +296,17 @@
       ],
       "added": "2026-09-03",
       "status": "active"
+    },
+    {
+      "id": "ryan-gazder",
+      "name": "Ryan Gazder",
+      "repo": "ryan-gazder-report",
+      "live_url": "https://teamrocketrush-ui.github.io/ryan-gazder-report/",
+      "months": [
+        "August 2026"
+      ],
+      "added": "2026-09-03",
+      "status": "active"
     }
   ]
 }
