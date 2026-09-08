@@ -404,7 +404,7 @@ function switchMonth(val){
     allCompare.style.display='block';
     document.getElementById('compareGrid').innerHTML=allKeys.map(k=>{const d=MONTHS[k];return`<div class="compare-card"><div class="compare-month">🗓 ${d.label}</div><div class="compare-row"><span class="compare-label">Impressions</span><span class="compare-val">${d.totalImp.toLocaleString()}</span></div><div class="compare-row"><span class="compare-label">Engagements</span><span class="compare-val">${d.totalEng.toLocaleString()}</span></div><div class="compare-row"><span class="compare-label">New Followers</span><span class="compare-val">${d.totalFol.toLocaleString()}</span></div><div class="compare-row"><span class="compare-label">Peak Day</span><span class="compare-val">${d.peakDay}</span></div><div class="compare-row"><span class="compare-label">Peak Value</span><span class="compare-val">${d.peakVal}</span></div></div>`;}).join('');
     renderAudience(MONTHS[allKeys[allKeys.length-1]].audience);
-    const allPosts=allKeys.flatMap(k=>MONTHS[k].posts);
+    const allPosts=allKeys.flatMap(k=>MONTHS[k].posts).sort((a,b)=>parseInt(b.imp.replace(/,/g,''))-parseInt(a.imp.replace(/,/g,'')));
     renderPosts(allPosts.slice(0,5));
   } else {
     const d=MONTHS[val];
