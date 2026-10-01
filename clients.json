@@ -144,10 +144,12 @@
       "months": [
         "June 2026",
         "July 2026",
-        "August 2026"
+        "August 2026",
+        "September 2026"
       ],
       "added": "2026-06-30",
-      "status": "active"
+      "status": "active",
+      "last_updated": "2026-10-01"
     },
     {
       "id": "harish-menon",
