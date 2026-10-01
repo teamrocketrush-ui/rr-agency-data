@@ -1,7 +1,7 @@
 {
   "agency": "TeamRocketRush",
   "github_owner": "teamrocketrush-ui",
-  "last_updated": "2026-09-06",
+  "last_updated": "2026-10-01",
   "clients": [
     {
       "id": "nikhil-mishra",
@@ -47,10 +47,12 @@
       "months": [
         "June 2026",
         "July 2026",
-        "August 2026"
+        "August 2026",
+        "September 2026"
       ],
       "added": "2026-06-29",
-      "status": "active"
+      "status": "active",
+      "last_updated": "2026-10-01"
     },
     {
       "id": "shruti-agrawal",
