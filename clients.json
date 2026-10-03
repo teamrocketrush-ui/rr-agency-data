@@ -300,10 +300,12 @@
       "live_url": "https://teamrocketrush-ui.github.io/ujwal-kalra-report/",
       "months": [
         "July 2026",
-        "August 2026"
+        "August 2026",
+        "September 2026"
       ],
       "added": "2026-09-01",
-      "status": "active"
+      "status": "active",
+      "last_updated": "2026-10-03"
     },
     {
       "id": "rajiv-goyal",
