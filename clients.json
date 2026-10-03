@@ -328,10 +328,12 @@
       "repo": "ryan-gazder-report",
       "live_url": "https://teamrocketrush-ui.github.io/ryan-gazder-report/",
       "months": [
-        "August 2026"
+        "August 2026",
+        "September 2026"
       ],
       "added": "2026-09-03",
-      "status": "active"
+      "status": "active",
+      "last_updated": "2026-10-03"
     }
   ]
 }
