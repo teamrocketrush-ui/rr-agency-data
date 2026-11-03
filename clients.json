@@ -182,10 +182,14 @@
       "months": [
         "Apr 14 \u2013 May 14, 2026",
         "May 14 \u2013 Jun 14, 2026",
-        "July 2026"
+        "July 2026",
+        "August 2026",
+        "September 2026",
+        "October 2026"
       ],
       "added": "2026-06-30",
-      "status": "active"
+      "status": "active",
+      "last_updated": "2026-11-03"
     },
     {
       "id": "piyush-dokania",
